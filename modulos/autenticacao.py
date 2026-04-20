@@ -6,7 +6,7 @@ import json
 arquivo = ".\dados\usuarios.json"
 
 def validarEmail(email):
-    
+    pass
 
 def carregarUsuarios():
     if not os.path.exists(arquivo):
