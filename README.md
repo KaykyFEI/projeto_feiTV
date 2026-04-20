@@ -11,8 +11,7 @@ similar
 informações sobre vídeos, não é preciso reproduzir os vídeos.
 
 ### Tecnologias ###
-- É obrigatório o uso da Linguagem Python para o desenvolvimento de todo o
-projeto
+- É obrigatório o uso da Linguagem Python para o desenvolvimento de todo o projeto
 
 - É obrigatório o uso de arquivos de texto (.txt ou similar)
 
